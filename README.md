@@ -33,3 +33,5 @@ A curated list of (my) essential design related bookmarks
 - [Will Paterson]()
 - [Satori Graphics]()
 - [Juxtopposed]()
+- [orenmeetsworld]()
+- [Studio Practice]()
