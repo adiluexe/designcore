@@ -18,6 +18,7 @@ A curated list of (my) essential design related bookmarks
 - [Plain Form Type Foundry](https://plain-form.com/)
 - [TypeType Type Foundry](https://typetype.org/)
 - [YouWorkForThem](https://www.youworkforthem.com/fonts)
+- [Power Type Foundry](https://power-type.com)
 
 ## Colors
 
