@@ -50,3 +50,4 @@ A curated list of (my) essential design related bookmarks
 - [Juxtopposed]()
 - [orenmeetsworld]()
 - [Studio Practice]()
+- [Mapal](https://www.youtube.com/@mapal/)
